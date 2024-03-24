@@ -77,17 +77,3 @@ body {
   background-color: hsl(75, 94%, 57%);
   color: hsl(0, 0%, 12%);
 }
-
-.attribution {
-  background-color: hsl(0, 0%, 12%);
-  margin: auto;
-  width: fit-content;
-  margin-top: 2rem;
-  padding: 0.8rem 0.8rem;
-  border-radius: 0.3rem;
-}
-
-.attribution a:link,
-.attribution a:visited {
-  color: hsl(75, 94%, 57%);
-}
