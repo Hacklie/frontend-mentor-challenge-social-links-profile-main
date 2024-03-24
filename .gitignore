@@ -16,5 +16,6 @@
 .prettierignore
 
 assets
-designREADME-template.md
+design
+README-template.md
 style-guide.md
